@@ -1,0 +1,10 @@
+Facial Expression Recognition (FER) identifies emotions from facial cues using Convolutional Neural Networks (CNNs). It classifies feelings like happiness, sadness, and anger.
+
+The process begins with collecting labeled facial images, which vary in lighting and angles. Next, images are resized and normalized for better model learning.
+A CNN architecture is built to extract features and make predictions. The model is trained on the labeled dataset, adjusting parameters to reduce errors.
+
+Finally, the model is evaluated using metrics like accuracy and precision. FER can enhance human-computer interaction, assess mental health, and improve security systems by
+understanding emotions in real time.
+
+
+
